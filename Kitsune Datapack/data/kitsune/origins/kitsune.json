@@ -1,0 +1,17 @@
+{
+	"loading_priority": 100,
+    "powers": [
+		"origins:phantomize",
+		"moborigins:timid_creature",
+		"moborigins:better_berries",
+		"moborigins:careful_gatherer",
+		"moborigins:sly",
+		"moborigins:small_fox",
+		"moborigins:item_collector"
+    ],
+    "icon": "minecraft:fox_spawn_egg",
+	"order": 23,
+    "impact": 3,
+	"name": "Kitsune",
+	"description": "The Kitsune is an intelligent fox possessing paranormal abilities."
+}
