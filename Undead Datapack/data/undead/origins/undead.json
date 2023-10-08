@@ -1,0 +1,16 @@
+{
+	"loading_priority": 100,
+    "powers": [
+		"origins:carnivore",
+		"moborigins:pillager_aligned",
+		"undead:low_appetite",
+		"undead:undead_type",
+		"undead:night_creature"
+    ],
+    "icon": "minecraft:rotten_flesh",
+	"unchoosable": "true",
+	"order":10,
+    "impact": 3,
+	"name": "Undead",
+	"description": "Has been alive, has been dead, and now isn’t much of either."
+}

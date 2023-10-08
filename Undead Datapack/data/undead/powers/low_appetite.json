@@ -1,0 +1,11 @@
+{
+{
+    "type": "origins:modify_exhaustion",
+    "modifier": {
+        "name": "Decreased exhaustion",
+        "operation": "multiply_base",
+        "value": 0.67
+    },
+	"name": "Rotten Stomach",
+	"description": "Your stomach doesn't work well anymore, so you can only eat meat. However, you also get hungry more slowly."
+}

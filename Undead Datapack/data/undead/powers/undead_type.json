@@ -1,0 +1,6 @@
+{
+    "type": "origins:entity_group",
+    "group": "undead",
+	"name": "One of the Undead",
+	"description": "You are one of the undead, and gain all the benefits of being undead in Minecraft."
+}

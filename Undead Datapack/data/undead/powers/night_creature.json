@@ -1,0 +1,11 @@
+{
+  "type": "origins:night_vision",
+  "strength": 0.4,
+  "condition": {
+    "type": "origins:submerged_in",
+    "fluid": "minecraft:water",
+    "inverted": true
+  },
+  "name": "Undead Eyes",
+  "description": "As a creature of the night, you can see a little bit better in darkness."
+}
