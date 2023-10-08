@@ -1,0 +1,16 @@
+{
+	"loading_priority": 100,
+    "powers": [
+		"origins:carnivore",
+		"moborigins:pillager_aligned",
+		"demon:demonic_wings",
+		"demon:hooves",
+		"demon:fire_resist"
+    ],
+    "icon": "minecraft:black_candle",
+	"unchoosable": "true",
+	"order":10,
+    "impact": 3,
+	"name": "Demon",
+	"description": "You come from the deepest parts of the Nether."
+}

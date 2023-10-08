@@ -1,0 +1,8 @@
+{
+  "type": "origins:invulnerability",
+  "damage_condition": {
+    "type": "origins:fire"
+  },
+  "name": "Born in Fire",
+  "description": "Having been born in fire, you are more resistant to it."
+}
