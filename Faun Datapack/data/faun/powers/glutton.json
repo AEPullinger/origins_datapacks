@@ -1,0 +1,9 @@
+{
+	"type": "origins:modify_exhaustion",
+	"modifier": {
+		"operation": "multiply_base",
+		"value": 2.0
+	},
+	"name": "Glutton",
+	"description": "You have a large appetite and are always hungry for more food."
+}

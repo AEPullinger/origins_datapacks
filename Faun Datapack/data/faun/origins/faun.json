@@ -1,0 +1,15 @@
+{
+	"loading_priority": 100,
+    "powers": [
+        "faun:hidden",
+		"faun:springy",
+		"faun:runner",
+		"origins:vegetarian",
+		"faun:glutton"
+    ],
+    "icon": "minecraft:fern",
+	"order":10,
+    "impact": 2,
+	"name": "Faun",
+	"description": "The fauns are a jovial race of half-human, half-ungulate creatures. Although they are fast and sturdy on their feet, they tend to love food and drink a little too much."
+}
