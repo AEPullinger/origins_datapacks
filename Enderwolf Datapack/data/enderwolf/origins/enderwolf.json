@@ -1,0 +1,18 @@
+{
+    "powers": [
+		"origins:throw_ender_pearl",
+		"origins:water_vulnerability",
+		"origins:pumpkin_hate",
+		"origins:extra_reach",
+		"origins:ender_particles",
+		"origins:damage_from_potions",
+		"enderwolf:increased_size",
+		"enderwolf:enderteam",
+		"enderwolf:enderfriend"
+    ],
+    "icon": "minecraft:ender_eye",
+	"order":10,
+    "impact": 3,
+	"name": "Ender Wolf",
+	"description": "A wolfling born of Ender energies, these creatures are very similar to their Endermen cousins."
+}
