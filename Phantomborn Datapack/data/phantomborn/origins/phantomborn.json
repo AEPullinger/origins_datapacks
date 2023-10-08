@@ -1,0 +1,16 @@
+{
+    "powers": [
+		"origins:phantomize",
+		"origins:translucent",
+		"origins:phasing",
+		"origins:invisibility",
+		"origins:burn_in_daylight",
+		"origins:fragile",
+		"origins:slow_falling"
+    ],
+    "icon": "minecraft:phantom_spawn_egg",
+	"order":10,
+    "impact": 3,
+	"name": "Phantomborn",
+	"description": "As half-human and half-phantom offspring, these creatures can switch between a Phantom and a normal form. But like. Cooler."
+}
